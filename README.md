@@ -5,7 +5,7 @@
 - 📫 How to reach me : my linkedin profile : https://www.linkedin.com/in/michaelgarcia838383/
 - I'm a physics and chemistry teacher in secondary high school in France for instance.
 - I prepare myself to become a data scientist by learning and coding.  
-- I have a PhD in experimental physics : I have analysed a lot of experimental movies of micro-algaes, using tracking, doing various stats on trajectories (MSD, angular time correlations, dual correlation, etc.) 
+- I have a PhD in experimental physics : I have done and analysed a lot of experimental movies of swimming micro-algaes, using tracking, doing various stats on trajectories (MSD, angular time correlations, dual correlation, etc.) 
 
 <!---
 MichaelG-create/MichaelG-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
