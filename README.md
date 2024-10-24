@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichaelG-create
 - 👀 I’m interested in Data Engineering
-- 🌱 I have learnt Machine Learning (Andrew Ng's course on Coursera), Data Collecting and Storing
 - 🌱 I am currently learning SQL, Python, Bash, git and going to learn Streamlit, FASTApi, Spark and Airflow
+- 🌱 I have learnt Machine Learning (Andrew Ng's course on Coursera), Data Collecting and Storing
 - 💞️ I’m looking to collaborate on whatever is related to a data engineering project
 - 📫 How to reach me : my linkedin profile : https://www.linkedin.com/in/michaelgarcia838383/
 - I'm currently a physics and chemistry teacher in secondary high school in France.
