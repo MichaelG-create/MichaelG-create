@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @MichaelG-create
-- 👀 I’m interested in Data Engineering
-- 🌱 I have learnt (and keep learning) SQL, Python, Bash, git, Streamlit, FASTApi, Spark and Airflow
-- 🌱 I have learnt Machine Learning (Andrew Ng's course on Coursera), Data Collecting and Storing
-- 💞️ I’m looking to collaborate on whatever is related to a data engineering project
-- 📫 How to reach me : my linkedin profile : https://www.linkedin.com/in/michaelgarcia838383/
-- I'm ending my teaching carrier in 2025.
-- I start my new carrier as data engineer.
-- I got a PhD in experimental physics : I have realized and analysed hundreds of Gb of experimental movies of swimming micro-algaes. My tools : python, tracking algorithms, statistics on trajectories of algaes (MSD, angular time correlations, dual correlation, etc.).
+# 👋 Hi, I’m Michael Garcia (@MichaelG-create)
+
+- 🧠 Former PhD in Experimental Physics turned **Data Engineer**
+- 🔍 Passionate about **data pipelines**, **data quality**, and solving **real-world problems** with data
+- 🛠️ I enjoy designing end-to-end **data workflows**: from API integration to storage, transformation, and visualization
+- 🚀 Recently built a complete data pipeline & dashboard for simulating **daily footfall in bank branches**
+- 🔧 Tools I love: Python, FastAPI, Airflow, Spark, DuckDB, Docker, Streamlit, GitHub Actions
+
+## 📌 Ongoing Side Projects
+- **Data Quality Monitoring Platform**: FastAPI + DuckDB + Streamlit + Airflow  
+
+## 🤝 I’m open to collaborate on:
+- Data engineering projects
+- Data quality & observability tools
+- Low-cost cloud data architectures (GCP, Render, etc.)
+
+## 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/michaelgarcia838383/)
+
+---
+
+### 👨‍🔬 A bit of background
+
+I hold a PhD in experimental physics where I worked on swimming microalgae dynamics.  
+I processed and analyzed hundreds of GBs of experimental videos using:
+- 🐍 Python  
+- ⚙️ Custom tracking algorithms  
+- 📈 Statistics on trajectories (MSD, angular correlations, etc.)
+
+---
