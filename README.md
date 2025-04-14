@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Michael Garcia (@MichaelG-create)
 
-- 🧠 Former PhD in Experimental Physics turned **Data Engineer**
+- 🧠 PhD in Experimental Physics turned **Data Engineer**
 - 🔍 Passionate about **data pipelines**, **data quality**, and solving **real-world problems** with data
 - 🛠️ I enjoy designing end-to-end **data workflows**: from API integration to storage, transformation, and visualization
 - 🚀 Recently built a complete data pipeline & dashboard for simulating **daily footfall in bank branches**
