@@ -2,6 +2,7 @@
 
 - 🧠 PhD in Experimental Physics turned **Data Engineer**
 - 🔍 Passionate about **data pipelines**, **data quality**, and solving **real-world problems** with data
+- 📈 Strong interest for **financial markets**
 - 🛠️ I enjoy designing end-to-end **data workflows**: from API integration to storage, transformation, and visualization
 - 🚀 Recently built a complete data pipeline & dashboard for simulating **daily footfall in bank branches**
 - 🔧 Tools I love: Python, FastAPI, Airflow, Spark, DuckDB, Docker, Streamlit, GitHub Actions
@@ -20,11 +21,17 @@
 
 ### 👨‍🔬 A bit of background
 
-I hold a PhD in experimental physics where I worked on swimming microalgae dynamics.  
+I worked for 12 years as a physics and chemistry teacher in middle and high school. 
+This experience allowed me to develop my ability to communicate technical information clearly to diverse audiences.
+
+I led experimental research during my PhD in experimental physics, investigating microscale swimming dynamics of microalgae.
 I processed and analyzed hundreds of GBs of experimental videos using:
-- 🐍 Python  
-- ⚙️ Custom tracking algorithms  
-- 📈 Statistics on trajectories (MSD, angular correlations, etc.)
+I processed and analyzed 100+ GB of experimental video data : 
+- 🐍 using Python  
+- ⚙️ using custom tracking algorithms  
+- 📈 extracting trajectory statistics (e.g., mean squared displacement, angular correlations).
+
+I also worked 2 years as a Retail Banking Advisor. That's where I discovered a passion for financial markets.
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
