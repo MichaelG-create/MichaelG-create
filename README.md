@@ -8,7 +8,7 @@
 - 🔧 Tools I love: Python, FastAPI, Airflow, Spark, DuckDB, Docker, Streamlit, GitHub Actions
 
 ## 📌 Ongoing Side Projects
-- **Data Quality Monitoring Platform**: FastAPI + DuckDB + Streamlit + Airflow  
+- **Sectoral**: full pipeline focusing on evolution of sectoral performances in financial markets 
 
 ## 🤝 I’m open to collaborate on:
 - Data engineering projects
