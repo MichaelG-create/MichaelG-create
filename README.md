@@ -25,7 +25,6 @@ I worked for 12 years as a physics and chemistry teacher in middle and high scho
 This experience allowed me to develop my ability to communicate technical information clearly to diverse audiences.
 
 I led experimental research during my PhD in experimental physics, investigating microscale swimming dynamics of microalgae.
-I processed and analyzed hundreds of GBs of experimental videos using:
 I processed and analyzed 100+ GB of experimental video data : 
 - 🐍 using Python  
 - ⚙️ using custom tracking algorithms  
