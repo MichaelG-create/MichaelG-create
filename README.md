@@ -1,94 +1,111 @@
+Here's your **data engineering-focused GitHub profile**:
+
+***
+
 # 👋 Hi, I'm Michael Garcia (@MichaelG-create)
 
-- 🧠 PhD in Experimental Physics turned **Full-Stack Software Engineer**
-- 💻 Building **production-ready systems** with modern DevOps practices and scientific rigor
-- 🚀 Specialized in **backend development**, **cloud infrastructure**, and **data pipelines**
-- 🔧 I design end-to-end systems: APIs, ETL/ELT, infrastructure as code, CI/CD, monitoring
-- 🎯 Currently learning **Java/Spring Boot** and **React/TypeScript** to master enterprise full-stack development
-- 📍 Open to opportunities in **Geneva/Switzerland** area (CERN, research organizations, tech companies)
+- 🧠 PhD in Experimental Physics turned **Data Engineer**
+- 💻 Building **production-ready data pipelines** with modern DevOps practices and scientific rigor
+- 🚀 Specialized in **streaming architectures**, **cloud data platforms**, and **pipeline orchestration**
+- 🔧 I design end-to-end data systems: ingestion, transformation, storage, monitoring, and orchestration
+- 🎯 Currently mastering **Apache Kafka** and **real-time streaming** for event-driven data architectures
+- 📍 Open to opportunities in **Geneva/Switzerland** area (CERN, finance, research organizations, tech companies)
 
 ## 🔧 Tech Stack
 
-**Backend & APIs:** Python (Advanced), FastAPI, Flask, REST APIs | Learning Java & Spring Boot  
-**DevOps & Cloud:** Docker, Kubernetes, Terraform, AWS (S3, Redshift, MWAA), CI/CD (GitHub Actions)  
-**Data:** PostgreSQL, Redshift, DuckDB, PySpark, dbt, Airflow, ETL/ELT  
-**Frontend:** HTML, JavaScript, Streamlit | Learning React & TypeScript  
-**Practices:** Git workflows, automated testing (pytest, unittest), code quality, SOLID principles, GDPR compliance
+**Data Engineering:** Python (Advanced), SQL, Apache Kafka, PySpark, dbt, Apache Airflow, ETL/ELT pipelines  
+**Databases:** PostgreSQL, Redshift, DuckDB, data modeling (star schema, normalization)  
+**DevOps & Cloud:** Docker, Kubernetes (basics), Terraform, AWS (S3, Redshift, MWAA), CI/CD (GitHub Actions)  
+**APIs & Backend:** FastAPI, REST APIs, data ingestion endpoints  
+**Monitoring:** Structured logging, metrics design (Grafana concepts), CloudWatch  
+**Practices:** Git workflows, automated testing (pytest), data quality checks, GDPR compliance, clean architecture
 
 ## 🚀 Featured Projects
 
+### 🔹 [kafka-market-stream - Real-Time Market Data Streaming](https://github.com/MichaelG-create/kafka-market-stream)
+**Production-ready Kafka pipeline for financial market indices**
+- **Streaming Architecture:** Apache Kafka producers/consumers with confluent-kafka (Python)
+- **Data Persistence:** DuckDB for analytics, PostgreSQL-ready patterns
+- **Monitoring:** Metrics collection (throughput, lag, errors), structured logging
+- **DevOps:** Docker containerization, GitHub Actions CI/CD, Kubernetes deployment concepts
+- **Scale:** Real-time ingestion of S&P 500, STOXX 600, Nikkei 225 indices
+
+**Tech:** Apache Kafka, confluent-kafka, Python, DuckDB, Docker, GitHub Actions
+
 ### 🔹 [Sectoral - Financial Sectoral Analysis Pipeline](https://github.com/MichaelG-create/Sectoral)
-**Cloud-native AWS data pipeline with enterprise DevOps practices**
+**Cloud-native AWS data platform with enterprise DevOps practices**
 - **Infrastructure as Code:** Terraform (VPC, S3, Redshift, MWAA)
 - **Orchestration:** Apache Airflow with dependency management and retry logic
-- **Data Quality:** dbt Core with 90%+ test coverage, schema validation
+- **Data Transformation:** dbt Core with 90%+ test coverage, schema validation, incremental models
 - **Monitoring:** CloudWatch logs, alerts, performance metrics
 - **Scale:** 500+ stocks, 11 sectors, daily automated updates
 
 **Tech:** Python, Terraform, AWS (S3, Redshift, MWAA), dbt, Airflow, CloudWatch
 
 ### 🔹 [Bank Branch Footfall Analytics](https://github.com/michaelg-create/bank-branch-footfall)
-**End-to-end production system for traffic analysis and staffing optimization**
-- **Architecture:** Microservices (FastAPI + PySpark + Streamlit)
-- **Orchestration:** Airflow DAGs (real-time + backfill) with fault tolerance
-- **Testing:** 95% test coverage (unit + integration tests)
+**End-to-end data platform for traffic analysis and staffing optimization**
+- **Architecture:** FastAPI ingestion → PySpark transformations → DuckDB datamarts → Streamlit dashboards
+- **Orchestration:** Airflow DAGs (batch + near-real-time) with fault tolerance
+- **Data Quality:** 95% test coverage (unit + integration tests), automated validation
 - **Deployment:** Docker containerization, CI/CD pipeline
-- **Impact:** Optimized staffing decisions based on visitor flow patterns
+- **Impact:** Data-driven staffing decisions based on visitor flow patterns
 
 🌐 [Live Demo](https://bank-branch-footfall.streamlit.app/) | 🔗 [Live API](https://bank-branch-footfall.onrender.com/docs)
 
-**Tech:** FastAPI, PySpark, Airflow, Docker, DuckDB, Streamlit, GitHub Actions
+**Tech:** FastAPI, PySpark, Airflow, Docker, DuckDB, Parquet, Streamlit, GitHub Actions
 
 ## 🤝 I'm open to collaborate on:
 
-- Full-stack software engineering projects (Java/Spring, React, Python)
-- Production systems with modern DevOps practices
-- Cloud-native architectures (AWS, GCP)
-- Software for research organizations or scientific applications
+- Data engineering projects (streaming, batch, hybrid architectures)
+- Production data pipelines with modern DevOps practices
+- Cloud-native data platforms (AWS, GCP)
+- Data systems for research organizations or scientific applications (CERN-style environments)
 
 ## 📫 Connect with me
 
 🌐 **Portfolio:** [michaelg-create.github.io/portfolio](https://michaelg-create.github.io/portfolio/)  
 💼 **LinkedIn:** [michaelgarcia838383](https://www.linkedin.com/in/michaelgarcia838383/)  
-📧 **Email:** michael.garcia.73@gmail.com
+📧 **Email:** [michael.garcia.73@gmail.com](mailto:michael.garcia.73@gmail.com)  
+📝 **Medium:** [Teaching Kafka for Data Engineers](https://medium.com/@michael.garcia.73)
 
----
+***
 
 ### 👨‍🔬 Background
 
-**12 years teaching physics** in middle and high school developed my ability to communicate complex technical concepts clearly and mentor others.
+**12 years teaching physics** in middle and high school developed my ability to explain complex technical systems clearly and support colleagues adopting new tools—skills I now apply when documenting data pipelines and collaborating with stakeholders.
 
-**PhD in Experimental Physics** investigating microscale swimming dynamics. Built complete data processing pipeline for 5-10 TB experimental video datasets:
+**PhD in Experimental Physics** investigating microscale swimming dynamics. Built complete automated data processing pipeline for 5–10 TB experimental video datasets:
 - Image processing automation (ImageJ macros) → 50% time reduction
 - Custom tracking algorithms (IDL) analyzing 500+ videos, 50,000+ trajectories
-- Statistical computing and automated reporting
+- Statistical computing pipelines and reproducible analysis workflows
 - International collaboration: 6+ researchers across 5 countries (100% English)
 
-**2 years as Retail Banking Advisor** gave me business acumen and understanding of financial operations.
+**2 years as Retail Banking Advisor** gave me deep understanding of financial operations, data quality requirements, and the business impact of reliable data systems.
 
-This unconventional path combines scientific rigor, modern software practices, and strong communication skills.
+This unconventional path combines scientific rigor, modern data engineering practices, and strong communication skills—ideal for data platform roles where technical depth meets user support.
 
----
+***
 
 ### 📊 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelG-create&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelG-create&layout=compact&theme=tokyonight)
 
----
+
+
+***
 
 ### 🏷️ Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFD700?style=for-the-badge&logo=duckdb&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
