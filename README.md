@@ -13,12 +13,12 @@ Here's your **data engineering-focused GitHub profile**:
 
 ## 🔧 Tech Stack
 
-**Data Engineering:** Python (Advanced), SQL, Apache Kafka, PySpark, dbt, Apache Airflow, ETL/ELT pipelines  
-**Databases:** PostgreSQL, Redshift, DuckDB, data modeling (star schema, normalization)  
-**DevOps & Cloud:** Docker, Kubernetes (basics), Terraform, AWS (S3, Redshift, MWAA), CI/CD (GitHub Actions)  
-**APIs & Backend:** FastAPI, REST APIs, data ingestion endpoints  
-**Monitoring:** Structured logging, metrics design (Grafana concepts), CloudWatch  
-**Practices:** Git workflows, automated testing (pytest), data quality checks, GDPR compliance, clean architecture
+- **Data Engineering:** Python (Advanced), SQL, Apache Kafka, PySpark, dbt, Apache Airflow, ETL/ELT pipelines  
+- **Databases:** PostgreSQL, Redshift, DuckDB, data modeling (star schema, normalization)  
+- **DevOps & Cloud:** Docker, Kubernetes (basics), Terraform, AWS (S3, Redshift, MWAA), CI/CD (GitHub Actions)  
+- **APIs & Backend:** FastAPI, REST APIs, data ingestion endpoints  
+- **Monitoring:** Structured logging, metrics design (Grafana concepts), CloudWatch  
+- **Practices:** Git workflows, automated testing (pytest), data quality checks, GDPR compliance, clean architecture
 
 ## 🚀 Featured Projects
 
