@@ -1,7 +1,3 @@
-Here's your **data engineering-focused GitHub profile**:
-
-***
-
 # 👋 Hi, I'm Michael Garcia (@MichaelG-create)
 
 - 🧠 PhD in Experimental Physics turned **Data Engineer**
@@ -83,29 +79,4 @@ Here's your **data engineering-focused GitHub profile**:
 **2 years as Retail Banking Advisor** gave me deep understanding of financial operations, data quality requirements, and the business impact of reliable data systems.
 
 This unconventional path combines scientific rigor, modern data engineering practices, and strong communication skills—ideal for data platform roles where technical depth meets user support.
-
-***
-
-### 📊 GitHub Stats
-
-
-
-
-***
-
-### 🏷️ Technologies
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
