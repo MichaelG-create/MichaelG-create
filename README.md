@@ -1,80 +1,63 @@
 # 👋 Hi, I'm Michael Garcia (@MichaelG-create)
 
-- 🧠 PhD in Experimental Physics turned **Data Engineer**
-- 💻 Building **production-ready data pipelines** with modern DevOps practices and scientific rigor
-- 🚀 Specialized in **streaming architectures**, **cloud data platforms**, and **pipeline orchestration**
-- 🔧 I design end-to-end data systems: ingestion, transformation, storage, monitoring, and orchestration
-- 📍 Open to opportunities in **Geneva/Switzerland** area (CERN, finance, research organizations, tech companies) or in **Aix-les-bains/France** area
+**Data Engineer | PhD in Physics**
+
+- 🧠 **Background:** 13 years of scientific modeling and data analysis (5-10 TB datasets).
+- 💻 **Focus:** Building reliable data pipelines using Python, SQL, and Infrastructure as Code.
+- 🚀 **Approach:** Bridging the gap between physical systems and data architecture.
+- 📍 Based in **Aix-les-Bains**, mobile in **Geneva, Lyon, and Grenoble**.
+
+---
 
 ## 🔧 Tech Stack
 
-- **Data Engineering:** Python (Advanced), SQL, Apache Kafka, PySpark, dbt, Apache Airflow, ETL/ELT pipelines  
-- **Databases:** PostgreSQL, Redshift, DuckDB, data modeling (star schema, normalization)  
-- **DevOps & Cloud:** Docker, Kubernetes (basics), Terraform, GCP (GCS, BigQuery, Cloud Composer), CI/CD (GitHub Actions)  
-- **APIs & Backend:** FastAPI, REST APIs, data ingestion endpoints  
-- **Monitoring:** Structured logging, metrics design (Grafana concepts), CloudWatch  
-- **Practices:** Git workflows, automated testing (pytest), data quality checks, GDPR compliance, clean architecture
+- **Data Engineering:** Python, SQL, dbt Core, Apache Airflow, Spark, Kafka.
+- **Cloud & Infrastructure:** Terraform, Azure, GCP, AWS (Lambda, S3, Snowflake).
+- **DevOps:** Docker, GitHub Actions CI/CD, Structured Logging, Pytest.
+- **Interests:** Physical modeling, Energy systems, Financial data, AI infrastructure.
 
-## 🚀 Featured Projects
+---
 
-### 🔹 [kafka-market-stream - Real-Time Market Data Streaming](https://github.com/MichaelG-create/kafka-market-stream)
-**Production-ready Kafka pipeline for financial market indices**
-- **Streaming Architecture:** Apache Kafka producers/consumers with confluent-kafka (Python)
-- **Data Persistence:** DuckDB for analytics, PostgreSQL-ready patterns
-- **Monitoring:** Metrics collection (throughput, lag, errors), structured logging
-- **DevOps:** Docker containerization, GitHub Actions CI/CD, Kubernetes deployment concepts
-- **Scale:** Real-time ingestion of S&P 500, STOXX 600, Nikkei 225 indices
+## 🚀 Projects
 
-**Tech:** Apache Kafka, confluent-kafka, Python, DuckDB, Docker, GitHub Actions
+### 🔹 [Alpine Lambda Trade](https://github.com/MichaelG-create/alpine-lambda-trade)
+**Serverless pipeline for market data analysis.**
+- **Details:** Hybrid Batch/Streaming pipeline using **AWS Lambda** and **Snowflake**.
+- **DevOps:** Infrastructure managed via **Terraform**.
+- **Tech:** AWS, Snowflake, Terraform, Python.
 
-### 🔹 [Sectoral - Financial Sectoral Analysis Pipeline](https://github.com/MichaelG-create/Sectoral)
-**Cloud-native GCP data platform with enterprise DevOps practices**
-- **Infrastructure as Code:** Terraform (GCS, BigQuery, Cloud Composer)
-- **Orchestration:** Apache Airflow with dependency management and retry logic
-- **Data Transformation:** dbt Core with 90%+ test coverage, schema validation, incremental models
-- **Monitoring:** CloudWatch logs, alerts, performance metrics
-- **Scale:** 500+ stocks, 11 sectors, daily automated updates
+### 🔹 [SME Energy Risk Dashboard](https://github.com/MichaelG-create/energy-risk-dashboard-smes)
+**Data platform for energy market exposure.**
+- **Details:** Risk modeling using **BigQuery** and **dbt Core**.
+- **Tech:** dbt Core, BigQuery, Looker Studio, Data Modeling.
 
-**Tech:** Python, Terraform, GCP (GCS, BigQuery, Cloud Composer), dbt, Airflow
+### 🔹 [GradeScale](https://github.com/MichaelG-create/grade-scale)
+**Infrastructure for AI-driven evaluation.**
+- **Details:** Automated environment on **Azure** via **Terraform** and **Docker**.
+- **Tech:** Azure, Terraform, Docker, TypeScript, LLMs.
 
-### 🔹 [Bank Branch Footfall Analytics](https://github.com/michaelg-create/bank-branch-footfall)
-**End-to-end data platform for traffic analysis and staffing optimization**
-- **Architecture:** FastAPI ingestion → PySpark transformations → DuckDB datamarts → Streamlit dashboards
-- **Orchestration:** Airflow DAGs (batch + near-real-time) with fault tolerance
-- **Data Quality:** 95% test coverage (unit + integration tests), automated validation
-- **Deployment:** Docker containerization, CI/CD pipeline
-- **Impact:** Data-driven staffing decisions based on visitor flow patterns
+---
 
-🌐 [Live Demo](https://bank-branch-footfall.streamlit.app/) | 🔗 [Live API](https://bank-branch-footfall.onrender.com/docs)
+## 👨‍🔬 Scientific Background
 
-**Tech:** FastAPI, PySpark, Airflow, Docker, DuckDB, Parquet, Streamlit, GitHub Actions
+My transition from Physics to Data Engineering is driven by a long-standing interest in complex systems:
+- **Data Volume:** Handled **10 TB+** of experimental data during my PhD, focusing on automated tracking and statistical validation.
+- **Systems Thinking:** I apply the rigour of physical modeling to build coherent and scalable data architectures.
+- **Communication:** Years of teaching have trained me to document technical systems clearly and collaborate with diverse stakeholders.
 
-## 🤝 I'm open to collaborate on:
+---
 
-- Data engineering projects (streaming, batch, hybrid architectures)
-- Production data pipelines with modern DevOps practices
-- Cloud-native data platforms (AWS, GCP)
-- Data systems for research organizations or scientific applications (CERN-style environments)
+## 🤝 Connect with me
 
-## 📫 Connect with me
-
-🌐 **Portfolio:** [michaelg-create.github.io/portfolio](https://michaelg-create.github.io/portfolio/)  
 💼 **LinkedIn:** [michaelgarcia838383](https://www.linkedin.com/in/michaelgarcia838383/)  
+✍️ **Substack:** [Newton to Data](https://newton-to-data.substack.com)  
+🌐 **Portfolio:** [michaelg-create.github.io/portfolio](https://michaelg-create.github.io/portfolio/)  
 📧 **Email:** [michael.garcia.73@gmail.com](mailto:michael.garcia.73@gmail.com)  
 
-***
+---
 
-### 👨‍🔬 Background
+### 👨‍🔬 Experience
 
-**13 years teaching physics** in middle and high school developed my ability to explain complex technical systems clearly and support colleagues adopting new tools—skills I now apply when documenting data pipelines and collaborating with stakeholders.
-
-**PhD in Experimental Physics** investigating microscale swimming dynamics. Built complete automated data processing pipeline for 5–10 TB experimental videos:
-- Image processing automation (ImageJ macros) → 50% time reduction
-- Custom tracking algorithms (IDL) analyzing 500+ videos, 100,000+ trajectories
-- Statistical computing pipelines and reproducible analysis workflows
-- International collaboration: 6+ researchers across 5 countries (100% English)
-
-**2 years as Retail Banking Advisor** gave me deep understanding of financial operations, data quality requirements, and the business impact of reliable data systems.
-
-This unconventional path combines scientific rigor, modern data engineering practices, and strong communication skills—ideal for data platform roles where technical depth meets user support.
-
+- **PhD in Experimental Physics:** Research on microscale dynamics. Developed automated analysis for 100,000+ trajectories.
+- **13 Years Educator:** Experience in simplifying complex technical concepts.
+- **Data Engineering:** 600+ hours of dedicated training in modern data stacks (Python, Cloud, DevOps).
