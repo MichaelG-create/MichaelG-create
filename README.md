@@ -50,7 +50,7 @@ My transition from Physics to Data Engineering is driven by a long-standing inte
 ## 🤝 Connect with me
 
 💼 **LinkedIn:** [michaelgarcia838383](https://www.linkedin.com/in/michaelgarcia838383/)  
-✍️ **Substack:** [Newton to Data](https://newton-to-data.substack.com)  
+✍️ **Substack:** [From Newton to Data](https://denewtonaladata.substack.com/)  
 🌐 **Portfolio:** [michaelg-create.github.io/portfolio](https://michaelg-create.github.io/portfolio/)  
 📧 **Email:** [michael.garcia.73@gmail.com](mailto:michael.garcia.73@gmail.com)  
 
