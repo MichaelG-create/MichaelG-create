@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael Garcia (@MichaelG-create)
+# 👋 Hi, I'm Michael Garcia (@michael-alpinedata)
 
 **Data Engineer | PhD in Physics**
 
@@ -51,8 +51,8 @@ My transition from Physics to Data Engineering is driven by a long-standing inte
 
 💼 **LinkedIn:** [michaelgarcia838383](https://www.linkedin.com/in/michaelgarcia838383/)  
 ✍️ **Substack:** [From Newton to Data](https://denewtonaladata.substack.com/)  
-🌐 **Portfolio:** [michaelg-create.github.io/portfolio](https://michaelg-create.github.io/portfolio/)  
-📧 **Email:** [michael.garcia.73@gmail.com](mailto:michael.garcia.73@gmail.com)  
+🌐 **Portfolio:** [alpinedata.fr](https://www.alpinedata.fr)  
+📧 **Email:** [michael@alpinedata.fr](mailto:michael@alpinedata.fr)  
 
 ---
 
