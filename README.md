@@ -2,7 +2,7 @@
 
 **Data Engineer | PhD in Physics**
 
-- 🧠 **Background:** 13 years of scientific modeling and data analysis (5-10 TB datasets).
+- 🧠 **Background:** 13 years of scientific modeling and data analysis (5-10 TB datas analyzed).
 - 💻 **Focus:** Building reliable data pipelines using Python, SQL, and Infrastructure as Code.
 - 🚀 **Approach:** Bridging the gap between physical systems and data architecture.
 - 📍 Based in **Aix-les-Bains**, mobile in **Geneva, Lyon, and Grenoble**.
